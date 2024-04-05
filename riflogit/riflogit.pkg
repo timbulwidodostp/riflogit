@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'riflogit': Fit unconditional logistic regression Use riflogit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f riflogit.ado
+f riflogit.sthlp
+f riflogit_p.ado
+f riflogit_rif.ado
