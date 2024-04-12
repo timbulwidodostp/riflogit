@@ -3,6 +3,8 @@ Fit unconditional logistic regression Use riflogit With STATA 18
 
 Unconditional logistic regression Use riflogit With STATA 18
 
+https://www.youtube.com/watch?v=HmioFmb9msg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
